@@ -1,0 +1,6 @@
+{
+  "name": "JL Choices",
+  "description": "Better Finds • Smarter Choices – Discover trending products, best deals and budget-friendly shopping finds from Amazon, Flipkart, Myntra, Meesho and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
